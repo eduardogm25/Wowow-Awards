@@ -1,0 +1,44 @@
+body{
+ background-image: url("https://images.unsplash.com/22/brick-wall.JPG?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80"); 
+ background-repeat: repeat-y;
+ background-size: 1000px 1000px;
+ 
+}
+h1{
+ color:white;  
+ font-family: 'ZCOOL QingKe HuangYou', cursive;
+}
+.award1{
+ font-family: 'Felipa', cursive; 
+ color: white;
+ 
+}
+   
+
+div.polaroid {
+  width: 40%;
+  background-color: #FFDC00;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 10px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+img {width: 100%;}
+
+div.container {
+  text-align: center;
+  padding: 10px 20px;
+}
+.award2{
+    font-family: 'Staatliches', cursive;
+    color: white;
+}
+.award3{
+  font-family: 'Luckiest Guy', cursive;
+  color: white;
+}
+.award4{
+  font-family: 'Fredericka the Great', cursive;   
+  color: white;
+}
+.desc{
+ font-family: 'Lilita One', cursive;   
+}
